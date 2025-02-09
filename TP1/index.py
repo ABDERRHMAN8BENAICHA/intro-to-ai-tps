@@ -1,1 +1,0 @@
-print("Hello in TP1")
