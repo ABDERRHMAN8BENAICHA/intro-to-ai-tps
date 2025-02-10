@@ -10,13 +10,13 @@ except ValueError :
 
 
 # Test Cases:
-# -------------------------------------------------
-# | Input (Fahrenheit) | Expected Output (Celsius) |
-# |--------------------|--------------------------|
-# | 32                | 0.0 C (Freezing point)     |
-# | 212               | 100.0 C (Boiling point)   |
-# | 98.6              | 37.0 C (Body temperature) |
-# | -40               | -40.0 C (Same in both)    |
-# | 0                 | -17.78 C                  |
-# | abc               | Invalid input. Please enter a valid number |
-# -------------------------------------------------
+# ------------------------------------------------------------------
+# | Input (Fahrenheit) | Expected Output (Celsius)                  |
+# |--------------------|--------------------------------------------|
+# | 32                 | 0.0 C (Freezing point)                     |
+# | 212                | 100.0 C (Boiling point)                    |
+# | 98.6               | 37.0 C (Body temperature)                  |
+# | -40                | -40.0 C (Same in both)                     |
+# | 0                  | -17.78 C                                   |
+# | abc                | Invalid input. Please enter a valid number |
+# -------------------------------------------------------------------

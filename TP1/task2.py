@@ -19,13 +19,13 @@ while True:
 
 # Test Cases:
 # -----------------------------------------------------------
-# | Input  | Expected Output                                  |
+# | Input  | Expected Output                                |
 # |--------|------------------------------------------------|
 # | 1500   | 1500 is not divisible by 7 and a multiple of 5 |
 # | 1750   | 1750 is not divisible by 7 and a multiple of 5 |
 # | 2100   | 2100 is divisible by 7 and a multiple of 5     |
 # | 2700   | 2700 is not divisible by 7 and a multiple of 5 |
-# | 1400   | Number must be between 1500 and 2700. Try again. |
-# | 2800   | Number must be between 1500 and 2700. Try again. |
+# | 1400   | Number must be between 1500 and 2700. Try again|
+# | 2800   | Number must be between 1500 and 2700. Try again|
 # | abc    | Invalid input. Please enter a valid number     |
 # -----------------------------------------------------------
